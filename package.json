@@ -1,0 +1,28 @@
+{
+  "name": "electron-todo-app",
+  "version": "1.0.0",
+  "description": "A simple to-do list application built with Electron JS for managing tasks with an intuitive and responsive interface.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SyedMahad/electron-todo-app.git"
+  },
+  "keywords": [
+    "todo",
+    "app",
+    "application"
+  ],
+  "author": "Syed Mahad Ehsan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyedMahad/electron-todo-app/issues"
+  },
+  "homepage": "https://github.com/SyedMahad/electron-todo-app#readme",
+  "devDependencies": {
+    "electron": "^32.0.1"
+  }
+}
